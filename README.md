@@ -6,7 +6,7 @@ I am **SeungWoo Cha**, a student at [SeoulTech](https://www.seoultech.ac.kr).
 Currently, I'm focusing on **Flutter development** and working towards becoming a **full-stack developer** for both mobile and web applications.
 
 ### 🔥 What I'm Working On
-- 📱 **[매일일기 (Daily Journal App)](https://github.com/Daily_Diary)** – A diary app built with Flutter & Drift  
+- 📱 **[매일일기 (Daily Diary App)](https://github.com/tmddn0920/Daily_Diary)** – A diary app built with Flutter & Drift  
 - 💡 Exploring **Dart, Flutter, Python, and Java**  
 - 🌱 Constantly learning new tech to enhance my full-stack skills  
 
