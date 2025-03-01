@@ -7,7 +7,7 @@ Currently, I'm focusing on **Flutter development** and working towards becoming 
 
 ### 🔥 What I'm Working On
 - 📱 **[매일일기 (Daily Diary App)](https://github.com/tmddn0920/Daily_Diary)** – A diary app built with Flutter & Drift
-- - 🏋️ **[InBody Analysis App](https://github.com/tmddn0920/HealthSTU)** – A simple health-tracking app prototype using Python  
+- 🏋️ **[InBody Analysis App](https://github.com/tmddn0920/HealthSTU)** – A simple health-tracking app prototype using Python  
 - 💡 Exploring **Dart, Flutter, Python, and Java**  
 - 🌱 Constantly learning new tech to enhance my full-stack skills  
 
