@@ -7,7 +7,7 @@ Currently, I'm focusing on **Flutter development** and working towards becoming 
 
 ### 🔥 What I'm Working On
 - 📱 **[매일일기 (Daily Diary App)](https://github.com/tmddn0920/Daily_Diary)** – A diary app built with Flutter & Drift
-  🚀 Now available on **[App Store](https://apps.apple.com/us/app/%EB%A7%A4%EC%9D%BC%EC%9D%BC%EA%B8%B0/id6742735505)!** 🎉
+  - 🚀 Now available on **[App Store](https://apps.apple.com/us/app/%EB%A7%A4%EC%9D%BC%EC%9D%BC%EA%B8%B0/id6742735505)!** 🎉
 - 💡 Exploring **Dart, Flutter, Python, and Java**  
 - 🌱 Constantly learning new tech to enhance my full-stack skills  
 
