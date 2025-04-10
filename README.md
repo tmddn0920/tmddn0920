@@ -16,7 +16,11 @@ Currently, I'm focusing on **Flutter development** and working towards becoming 
 ### 📌 Tech Stack
 **Languages & Frameworks**  
 - 🏗 **Flutter (Dart)** | ☕ **Java** | 🐍 **Python**  
-- 🏢 **Firebase, Supabase** | 📦 **Drift, Dio**  
+- 🏢 **Firebase, Supabase** | 📦 **Drift, Dio**
+
+### 🧠 Algorithm Practice
+[![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)
+
 
 ### 📬 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmddn0920)
