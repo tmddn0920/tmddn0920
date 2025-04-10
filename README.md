@@ -13,10 +13,16 @@ Currently, I'm focusing on **Flutter development** and working towards becoming 
     
 - 🌱 Constantly learning new tech to enhance my full-stack skills  
 
-### 📌 Tech Stack
-**Languages & Frameworks**  
-- 🏗 **Flutter (Dart)** | ☕ **Java** | 🐍 **Python**  
-- 🏢 **Firebase, Supabase** | 📦 **Drift, Dio**
+### 💻 Tech Stack
+
+#### 🚀 Main
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+
+#### 🧩 Others
+<img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/>
+<img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/>
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 ### 🧠 Algorithm Practice
 [![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)
