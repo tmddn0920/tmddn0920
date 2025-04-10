@@ -6,7 +6,6 @@ Currently, I'm focusing on **Flutter development** and working towards becoming 
 ### 🔥 What I'm Working On
 - 📱 **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)** – A diary app built with Flutter
 - 💡 Exploring **Flutter and Python Projects**
-- 🌱 Constantly learning new tech to enhance my full-stack skills  
 
 ### 💻 Tech Stack
 
