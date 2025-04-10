@@ -1,7 +1,5 @@
 # 🚀 SeungWoo's GitHub
 
-## Welcome to My GitHub! 👋  
-
 I am **SeungWoo Cha**, a student at [SeoulTech](https://www.seoultech.ac.kr).  
 Currently, I'm focusing on **Flutter development** and working towards becoming a **full-stack developer** for both mobile and web applications.
 
