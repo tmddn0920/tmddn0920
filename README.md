@@ -1,6 +1,9 @@
 # 🚀 SeungWoo's GitHub
 
-### **🎓** SeoulTech (2020 ~ 2025)
+### Flutter & Python Developer | Full-Stack Mobile & Web
+
+#### **🎓** SeoulTech (2020 ~ 2025)  
+학부 공부를 병행하면서 플러터 앱 개발자로 활동하고 있습니다.
 
 ### 🔥 What I'm Working On
 - 📱 **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)** – A diary app built with Flutter
