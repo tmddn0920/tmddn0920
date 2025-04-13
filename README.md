@@ -1,7 +1,7 @@
 # 🚀 SeungWoo's GitHub
 
 **🎓** SeoulTech (2020 ~ 2025)  
-**📱** Flutter Developer 
+**📱** Flutter Developer
 **🐍** Python Developer
 
 ### 🔥 What I'm Working On
