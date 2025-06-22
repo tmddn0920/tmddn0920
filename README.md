@@ -19,8 +19,8 @@
 <img src="https://img.shields.io/badge/C-A8B9CC?style=flat-square&logo=c&logoColor=white"/> <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white"/> <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black"/>
 
 ### 🧠 Algorithm Practice
-[![Baekjoon](http://mazassumnida.wtf/api/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)
-
+[![Solved.ac 프로필](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)
+[![백준 티어](https://img.shields.io/badge/Solved.ac-My%20Tier-blueviolet?style=flat&logo=baekjoon&logoColor=white)](https://solved.ac/tmddn0920)
 
 ### 📬 Let's Connect!
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmddn0920)
