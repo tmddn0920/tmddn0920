@@ -21,6 +21,12 @@
 
 ---
 
+### 📜 Certifications
+- 📊 ADsP (데이터분석 준전문가)
+- 🗄️ SQLD (SQL 개발자)
+
+---
+
 ### 🧠 Algorithm Practice  
 [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)  
 [![mazandi](http://mazandi.herokuapp.com/api?handle=tmddn0920&theme=warm)](https://solved.ac/tmddn0920)  
