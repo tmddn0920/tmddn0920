@@ -10,7 +10,7 @@
 ### 🔥 What I'm Working On
 - 📱 **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)** – Flutter 기반 프론트엔드 개발  
 - 🤖 Exploring **Deep Learning & AI Projects** (Python 기반)  
-- ✍️ [개발 블로그 (Velog)](https://velog.io/@tmddn0920/posts) – 딥러닝, 플러터, 알고리즘 관련 글 작성 중  
+- ✍️ [개발 블로그 (Velog)](https://velog.io/@tmddn0920/posts) – 딥러닝 관련 글 작성 중  
 
 ---
 
