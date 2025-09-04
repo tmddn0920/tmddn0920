@@ -7,10 +7,14 @@
 
 ---
 
-### 🔥 What I'm Working On
-- 📱 **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)**
-- 🤖 Exploring **Deep Learning & AI Projects** (Python 기반)  
+### 🔥 What I'm Working On  
+
+#### 📱 Flutter  
+- **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)** – 나만의 일기를 작성하고 관리할 수 있는 앱  
+
+#### 🤖 Deep Learning  
 - ✍️ [개발 블로그 (Velog)](https://velog.io/@tmddn0920/posts) – 딥러닝 관련 글 작성 중  
+- 🩺 **[Pneumonia Detector](https://github.com/tmddn0920/Pneumonia_Detector)** – U-Net 기반 **폐 Segmentation**을 통해 **폐렴 여부 판별**  
 
 ---
 
