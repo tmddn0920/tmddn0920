@@ -13,8 +13,10 @@
 - **[매일일기 - 매일 쓰는 나만의 일기](https://github.com/tmddn0920/Daily_Diary)** – 나만의 일기를 작성하고 관리할 수 있는 앱  
 
 #### 🤖 Deep Learning  
-- ✍️ **[개발 블로그 (Velog)](https://velog.io/@tmddn0920/posts)** – 딥러닝 관련 글 작성 중  
 - 🩺 **[Pneumonia Detector](https://github.com/tmddn0920/Pneumonia_Detector)** – U-Net 기반 **폐 Segmentation**을 통해 **폐렴 여부 판별**  
+
+#### ✨ Extra  
+- ✍️ **[개발 블로그 (Velog)](https://velog.io/@tmddn0920/posts)** – **플러터 개발 + 딥러닝 + 알고리즘** 전반의 내용을 기록 및 공유
 
 ---
 
