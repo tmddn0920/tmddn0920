@@ -43,23 +43,9 @@
 
 <div align="center">
 
-<img 
-  src="https://github-readme-stats.vercel.app/api?username=tmddn0920&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" 
-  height="165" 
-  alt="GitHub Stats"
-/>
-
-<img 
-  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddn0920&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight" 
-  height="165" 
-  alt="Top Languages"
-/>
-
-<img 
-  src="https://streak-stats.demolab.com?user=tmddn0920&theme=tokyonight" 
-  height="165" 
-  alt="GitHub Streak"
-/>
+  <img src="https://github-readme-stats.vercel.app/api?username=tmddn0920&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="165"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddn0920&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight" height="165"/>
+  <img src="https://streak-stats.demolab.com?user=tmddn0920&theme=tokyonight" height="165"/>
 
 </div>
 
