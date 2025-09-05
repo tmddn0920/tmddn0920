@@ -35,16 +35,9 @@
 
 ### 🧠 Algorithm Practice  
 
-<div align="center">
-
-  <a href="https://solved.ac/tmddn0920">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920" height="150"/>
-  </a>
-  <a href="https://solved.ac/tmddn0920">
-    <img src="http://mazandi.herokuapp.com/api?handle=tmddn0920&theme=warm" height="150"/>
-  </a>
-
-</div>
+<a href="https://solved.ac/tmddn0920">
+  <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920" alt="Solved.ac Profile"/>
+</a>
 
 ---
 
