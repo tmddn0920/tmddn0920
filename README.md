@@ -61,16 +61,6 @@
   alt="GitHub Streak"
 />
 
-<img 
-  src="https://github-profile-trophy.vercel.app/?username=tmddn0920&theme=tokyonight&no-frame=true&row=1&column=6" 
-  alt="Trophy"
-/>
-
-<img 
-  src="https://komarev.com/ghpvc/?username=tmddn0920&color=blueviolet" 
-  alt="Profile views"
-/>
-
 </div>
 
 ---
