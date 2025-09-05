@@ -39,6 +39,42 @@
 
 ---
 
+### 📈 GitHub Stats  
+
+<div align="center">
+
+<img 
+  src="https://github-readme-stats.vercel.app/api?username=tmddn0920&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" 
+  height="165" 
+  alt="GitHub Stats"
+/>
+
+<img 
+  src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddn0920&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight" 
+  height="165" 
+  alt="Top Languages"
+/>
+
+<img 
+  src="https://streak-stats.demolab.com?user=tmddn0920&theme=tokyonight" 
+  height="165" 
+  alt="GitHub Streak"
+/>
+
+<img 
+  src="https://github-profile-trophy.vercel.app/?username=tmddn0920&theme=tokyonight&no-frame=true&row=1&column=6" 
+  alt="Trophy"
+/>
+
+<img 
+  src="https://komarev.com/ghpvc/?username=tmddn0920&color=blueviolet" 
+  alt="Profile views"
+/>
+
+</div>
+
+---
+
 ### 📬 Let's Connect!  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmddn0920)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likepiano2424@gmail.com)  
