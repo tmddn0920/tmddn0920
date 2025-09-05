@@ -40,6 +40,7 @@
   <a href="https://solved.ac/tmddn0920">
     <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920" alt="Solved.ac Profile"/>
   </a>
+  <br/>
   <a href="https://solved.ac/tmddn0920">
     <img src="http://mazandi.herokuapp.com/api?handle=tmddn0920&theme=dark" alt="Solved.ac Mazandi"/>
   </a>
