@@ -36,9 +36,13 @@
 ### 🧠 Algorithm Practice  
 
 <div align="center">
-  
-  [![Solved.ac](http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920)](https://solved.ac/tmddn0920)  
-  [![mazandi](http://mazandi.herokuapp.com/api?handle=tmddn0920&theme=warm)](https://solved.ac/tmddn0920)  
+
+  <a href="https://solved.ac/tmddn0920">
+    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920" height="150"/>
+  </a>
+  <a href="https://solved.ac/tmddn0920">
+    <img src="http://mazandi.herokuapp.com/api?handle=tmddn0920&theme=warm" height="150"/>
+  </a>
 
 </div>
 
