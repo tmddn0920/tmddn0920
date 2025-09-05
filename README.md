@@ -16,7 +16,7 @@
 - 🩺 **[Pneumonia Detector](https://github.com/tmddn0920/Pneumonia_Detector)** – U-Net 기반 **폐 Segmentation**을 통해 **폐렴 여부 판별**  
 
 #### ✨ Extra  
-- ✍️ **[오늘도 개발을 합니다.](https://velog.io/@tmddn0920/posts)** – **플러터 개발 + 딥러닝 + 알고리즘** 전반의 내용을 기록 및 공유
+- ✍️ **[오늘도 개발을 합니다](https://velog.io/@tmddn0920/posts)** – **플러터 개발 + 딥러닝 + 알고리즘** 전반의 내용을 기록 및 공유
 
 ---
 
