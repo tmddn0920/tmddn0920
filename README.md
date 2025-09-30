@@ -49,18 +49,6 @@
 
 ---
 
-### 📈 GitHub Stats  
-
-<div align="center">
-
-  <img src="https://github-readme-stats.vercel.app/api?username=tmddn0920&show_icons=true&include_all_commits=true&count_private=true&rank_icon=github&theme=tokyonight" height="165"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tmddn0920&layout=compact&langs_count=8&hide=Jupyter%20Notebook&theme=tokyonight" height="165"/>
-  <img src="https://streak-stats.demolab.com?user=tmddn0920&theme=tokyonight" height="165"/>
-
-</div>
-
----
-
 ### 📬 Let's Connect!  
 [![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmddn0920)  
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likepiano2424@gmail.com)  
