@@ -13,7 +13,7 @@ SeoulTech (2020 ~ 2025)
 - 🩺 **[Pneumonia Detector](https://github.com/tmddn0920/Pneumonia_Detector)**  
   U-Net 기반 폐 영역 Segmentation → 폐렴 여부 판별  
 
-- 📱 **[매일일기](https://github.com/tmddn0920/Daily_Diary)** 
+- 📱 **[매일일기](https://github.com/tmddn0920/Daily_Diary)**
   매일 쓰는 나만의 일기 앱  
 
 ---
