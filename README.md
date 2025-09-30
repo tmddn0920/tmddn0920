@@ -8,10 +8,7 @@ SeoulTech (2020 ~ 2025)
 
 ---
 
-## 🔥 Projects  
-
-- 🩺 **[Pneumonia Detector](https://github.com/tmddn0920/Pneumonia_Detector)**
-- 📱 **[매일일기](https://github.com/tmddn0920/Daily_Diary)**
+## 🔥 Projects
 
 ## ✍️ Writing  
 - **Velog:** [오늘도 개발을 합니다](https://velog.io/@tmddn0920/posts)  
