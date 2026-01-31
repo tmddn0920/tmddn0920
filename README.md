@@ -1,10 +1,9 @@
 # 🚀 SeungWoo's GitHub  
 
 ### Deep Learning Engineer
-SeoulTech (2020 ~ 2025)  
+SeoulTech (2020 ~ 2026)  
 
 딥러닝 연구와 컴퓨터비전 문제 해결에 집중하고 있습니다.  
-Flutter는 취미로 소규모 앱을 개발하며 즐기고 있어요.  
 
 ## 🔥 Projects
 
