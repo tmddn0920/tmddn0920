@@ -9,12 +9,7 @@ SeoulTech (2020 ~ 2026)
 - **3DMedSAM-FDA:** [A Frequency-based Dual-Path Adapter for 3D Medical Image Segmentation](https://github.com/tmddn0920/3DMedSAM-FDA)
 
 ## ✍️ Writing  
-- **Velog:** [오늘도 개발을 합니다](https://velog.io/@tmddn0920/posts)  
-
-## 🧩 Algorithm  
-<a href="https://solved.ac/tmddn0920">
-    <img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=tmddn0920" alt="Solved.ac Profile"/>
-</a>
+- **Velog:** [오늘도 개발을 합니다](https://velog.io/@tmddn0920/posts)
 
 ## 📜 Certifications  
 - 📊 ADsP  
