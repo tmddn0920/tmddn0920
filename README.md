@@ -11,7 +11,4 @@ SeoulTech (2020 ~ 2026)
 
 ## 📜 Certifications  
 - 📊 ADsP  
-- 🗄️ SQLD  
-
-## 📬 Contact  
-[![GitHub](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/tmddn0920)[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:likepiano2424@gmail.com)[![Velog](https://img.shields.io/badge/Velog-20C997?style=for-the-badge&logo=velog&logoColor=white)](https://velog.io/@tmddn0920/posts)  
+- 🗄️ SQLD
