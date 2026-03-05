@@ -5,6 +5,7 @@ SeoulTech (2020 ~ 2026)
 
 ## 🔥 Projects
 - **3DMedSAM-FDA:** [A Frequency-based Dual-Path Adapter for 3D Medical Image Segmentation](https://github.com/tmddn0920/3DMedSAM-FDA)
+  - Accepted at KICS Winter Conference 2026
 
 ## ✍️ Writing  
 - **Velog:** [오늘도 개발을 합니다](https://velog.io/@tmddn0920/posts)
